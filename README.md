@@ -1,2 +1,2 @@
-# frirstAssignment
-This is First program
+# First Assignment
+ This is First program
